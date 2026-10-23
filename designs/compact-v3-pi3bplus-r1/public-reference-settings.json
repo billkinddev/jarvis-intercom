@@ -1,0 +1,64 @@
+{
+  "scope": "Reference Pi3B+ build; not an installer or universal calibration",
+  "display": {
+    "model": "ST7789 1.9 inch 170x320 SPI; no touch",
+    "physical_pins": {
+      "GND": 6,
+      "VCC": 1,
+      "SCL": 23,
+      "SDA": 19,
+      "RES": 13,
+      "DC": 22,
+      "CS": 24,
+      "BLK": 17
+    },
+    "supply_v": 3.3,
+    "backlight_v": 3.3,
+    "spi_hz": 8000000,
+    "canvas": [
+      320,
+      170
+    ],
+    "column_offset": 0,
+    "row_offset": 35,
+    "rotation": 180
+  },
+  "fan": {
+    "model": "GeeekPi/52Pi F-0011",
+    "dimensions_mm": [
+      40,
+      40,
+      10
+    ],
+    "supply_v": 5,
+    "physical_pins": {
+      "red_5v": 4,
+      "black_ground": 9,
+      "blue_control_bcm18": 12
+    },
+    "on_c": 70,
+    "off_below_c": 60,
+    "boot_overlay": "dtoverlay=gpio-fan,gpiopin=18,temp=70000,hyst=10000",
+    "firmware_thermal_limits": "unchanged; Pi3B+ soft limit can reduce clock above60C"
+  },
+  "wake": {
+    "wake_threshold": 0.7,
+    "wake_trigger_frames": 2,
+    "wake_vad_threshold": 0.5,
+    "wake_threshold_call": 0.25,
+    "wake_trigger_frames_call": 1,
+    "wake_refractory_seconds": 2.0,
+    "listen_seconds": 8,
+    "playback_cooldown_seconds": 0.16
+  },
+  "management_controls": [
+    "wake_on_off",
+    "speaker_volume",
+    "ring_or_drop_in",
+    "arrival_chime",
+    "safe_pi_shutdown"
+  ],
+  "planned_only": [
+    "quiet_hours"
+  ]
+}

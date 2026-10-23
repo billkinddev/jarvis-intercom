@@ -1,0 +1,20 @@
+{
+  "STL/shell.stl": "c50fcba41ac4f369d5875fdca9ff7f75885660f76dec61c7c98099b233d4a377",
+  "STEP/shell.step": "246b09631a55f4439a6dfea111366f5818f1c7009df7eb40bd843be52f82adbd",
+  "STL/base.stl": "d35ec1feae02894772f189b1f0ecceed100cdc23f5d32034ea465df62720b912",
+  "STEP/base.step": "35d03c80ad104fd220a62d6eb3125b483a51edc5d10a77ba8ee017dc283ef0bd",
+  "STL/pi3bplus_rear_insert.stl": "c10e6302dc56b0cc6e31283068718c5fe47de21911a8e9c68ec9e2510fa0a49f",
+  "STEP/pi3bplus_rear_insert.step": "49e2eb813ecab839c898233e15a848a0c02e8dfbd4c3efd93b05d2368fc1d8c9",
+  "STL/fan_retainer.stl": "6b7b3daa48cfb0cf9ffe308b838a9e3e78d6a294d52b7baf94b59f04100a9d3a",
+  "STEP/fan_retainer.step": "9effd4e51c3c5ce4f3e6a9c83869d4f80b39b712b5245d3911f567f2ae5d3a8b",
+  "STL/lower_jabra_seat.stl": "4f391ef6dcce971b88a3540219ce995405af2ffc7c49e8631ab1e7653e35ec6a",
+  "STEP/lower_jabra_seat.step": "52c28289057e0afdcc9a3f98292141e86f159f629c11f0ea017edfe090657a33",
+  "STL/top_ring_2mm_flat_2mm_insertion.stl": "83f037cedc20d9aae270a90b6523230cb373d1a212ec7cb3b726d8a4d1dc018a",
+  "STEP/top_ring_2mm_flat_2mm_insertion.step": "9ba687829ff0b3f1e70cc1f8760592147572af35033754ea376114fa97224060",
+  "STL/screen_bezel.stl": "66f37d07384e0bb7220105cfbb2b547c65dcad4d1bd4106d48081a3c01d61eb2",
+  "STEP/screen_bezel.step": "06dbddb3ac82bb7fb7c295d9ed9091afbbaad99f919df79a9c59d7df204acf36",
+  "STL/screen_retainer.stl": "09d8c0b79371da9d02eef7dc5644aae28dc985568c275aaebf270c13a14e4f25",
+  "STEP/screen_retainer.step": "ccb00fa9a15ec2eaf6360a886c83e58e568282efe3516eb0309e72214235ac40",
+  "README.txt": "7151196cc6327434c7325e7bb316272b33c864627086f114f50ae7081e631237",
+  "public-reference-settings.json": "5bdc444aa149f778b8bd41bc91012cfaa1203140c4d6d8e32d3f9d4b8b6ebc87"
+}
